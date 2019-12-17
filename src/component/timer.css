@@ -1,0 +1,33 @@
+.time{
+    display: flex;
+  padding:0 40px;
+  margin:0 10px;
+  }
+  .time-items span{
+    font-size: 15px;
+    padding-left:15px
+    
+  }
+  .time-items {
+  flex-direction: column;
+  }
+  .time-items p{
+    font-size: 40px;
+    padding-left:15px;
+    font-weight:700;
+    color:rgb(5, 28, 129);
+  margin:0;
+  }
+  button{
+    margin-left: 19px;
+    width: 92px;
+    background-color: #8f8fc7;
+    height: 36px;
+    border-radius: 10px;
+
+
+  }
+  
+  .boutton{
+    margin: 36px;
+  }
